@@ -50,8 +50,9 @@ I enjoy exploring new technologies, experimenting with AI tools, solving practic
   <img src="https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP FUNDAMENTALS -008080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG_Basics-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM BASICS -4B0082?style=for-the-badge" />
 </p>
 
 ### Data Analytics & Visualization
