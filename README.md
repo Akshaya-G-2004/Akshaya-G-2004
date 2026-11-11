@@ -1,6 +1,7 @@
 # ✨ Hey, I'm G. Akshaya!
 
-### AI/ML Graduate | AI Enthusiast | Technology Explorer
+###  Recent AI/ML Graduate | AI Enthusiast | Technology Explorer  
+open for AI roles , Full Stack developer roles 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+Practical+Technology+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Projects+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
@@ -28,6 +29,7 @@ I enjoy exploring new technologies, experimenting with AI tools, solving practic
 - 🧠 Interested in AI, Machine Learning, Data Science and Data Analytics
 - 💻 Working with Python, SQL, APIs, databases and AI tools
 - 🔍 Interested in learning, experimentation and practical problem-solving
+- Also Exploring web development and testing
 - 📍 Bengaluru, India
 
 ---
@@ -109,6 +111,8 @@ An autonomous waste detection and collection system designed to help collect flo
 - Integrated sensors, motor control and conveyor automation.
 - Implemented obstacle avoidance and autonomous navigation.
 - Worked on hardware-software integration, component testing and troubleshooting.
+[explore the boat code](https://github.com/Akshaya-G-2004/Scavenger-boat-AI-Powered-trash-cleaning-boat)
+[explore the website](https://scavenger-boat-website.vercel.app/)
 
 ### 02 | 🤖 Multi-Agent AI Review Analysis System
 
@@ -121,6 +125,9 @@ A Python-based multi-agent application that analyzes restaurant reviews and gene
 - Designed automated workflows for trend detection.
 - Integrated LLM-based components.
 - Developed interactive dashboards to visualize branch-level performance.
+[Explore the agent](https://owner-analysis-dashboard.streamlit.app/)
+
+
 
 ### 03 | 🏡 AI-Powered Real Estate Sales CRM & Client-Specific Chatbot
 
@@ -180,16 +187,7 @@ Artificial Intelligence and Machine Learning
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshaya-G-2004&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-G-2004&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaya-G-2004&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
